@@ -1,2 +1,2 @@
 # APS360
-Applied Fundamentals of Deep Learning, Course Labs
+My assignments for APS360: Fundamentals of Artificial Intelligence, taken in the Fall 2022 semester.
